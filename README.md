@@ -1,7 +1,6 @@
 <img src="media/Agentic.jpg" align="right" width="95px" alt="Agentic">
 
 <br>
-<br>
 
 # GENERATIVE MODEL SERIES: ESKIZ 
 
