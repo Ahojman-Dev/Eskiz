@@ -1,7 +1,9 @@
+<img src="media/Agentic.jpg" align="right" width="95px" alt="Agentic">
+
+<br>
+<br>
+
 # GENERATIVE MODEL SERIES: ESKIZ 
-<div style="position: absolute; top: 0; right: 0; padding: 10px; padding-right: 55px;"> 
-  <img src="media/Agentic.jpg" width="65px" alt="Agentic"> 
-</div>
 
 **Eskiz** is an experimental generative model based on the **Deep Convolutional Generative Adversarial Network** architecture. 
 
@@ -29,9 +31,7 @@ The Deep Convolutional Generative Adversarial Network consists of two interconne
 
 The GIF below shows a smooth transition through the latent space.
 
-<div style="padding: 10px; align: center;">
-  <img src="media/generation_animation.gif" style="display: block; margin: 0 auto; width: 60%; max-width: 800px;" alt="Прогулка по латентному пространству">
-</div>
+<img src="media/generation_animation.gif" align="center" style="display: block; margin: 0 auto; width: 60%; max-width: 800px;" alt="Прогулка по латентному пространству">
 
 <br>
 
